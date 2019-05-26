@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\bin\Debug\netcoreapp2.1\RegularLanguage.deps.json
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\bin\Debug\netcoreapp2.1\RegularLanguage.runtimeconfig.json
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\bin\Debug\netcoreapp2.1\RegularLanguage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\bin\Debug\netcoreapp2.1\RegularLanguage.dll
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\bin\Debug\netcoreapp2.1\RegularLanguage.pdb
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.dll
+C:\Users\Admin\source\repos\RegularLanguage\RegularLanguage\obj\Debug\netcoreapp2.1\RegularLanguage.pdb
